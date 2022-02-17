@@ -1,0 +1,5 @@
+{
+  "name": "Test case API",
+  "description": "For debugging puzzles by CG's java_coffee_cup",
+  "addons": [ "heroku-postgresql" ]
+}
